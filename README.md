@@ -16,6 +16,26 @@ The dashboard was developed using Power BI, with additional data modeling and tr
 
 ---
 
+# Dashboard Preview
+
+## Live Dashboard
+
+[View Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYjlhNTM0NzEtMmYzYi00NTUyLWI3OWQtZGZlODUxYTZjZjdiIiwidCI6ImEzNGM1MTliLTQ0ZDEtNGRlNi1iNTVlLWQ0NmNmZWFhODJhNSJ9)
+
+---
+
+## Dashboard Screenshots
+
+### Executive Summary
+
+![Executive Summmary](Assets/Dashboard1.jpg)
+
+### Temporal & Geo Performance
+
+![Temporal & Geo Performance](Assets/Dashboard2.jpg)
+
+---
+
 ## Dataset
 
 The dataset contains social media performance data from:
